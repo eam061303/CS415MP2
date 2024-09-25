@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/BlockGame/Maps/Platform_level.umap",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/BlockGame/Maps/PlatformLevel.umap",
+				"/Users/lizamartynenko/Desktop/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/UI/HealthBar.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/UI/GAMEOVER.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/Hour_of_Code/Blueprints/Game/HealthPacks.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/UI/Score.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/BlockGame/Maps/PlatformLevel2.umap",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthPacks.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Collectibles.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/BP_Pursuer.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/AI/Pursuer_AiController.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/AI/BP_Pursuer.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/AI/EAIState.uasset",
+				"/Users/lizamartynenko/UnrealEngine/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap"
+			]
+		}
+	]
+}
